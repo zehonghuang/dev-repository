@@ -1,0 +1,8 @@
+remote_repository: https://ddddd.com
+local_repository: "/Users/huangzehong"
+kube_config_map:
+  context1: "Library"
+  context2: "Desktop"
+kube_config_file_map:
+  context1: "Library"
+  context2: "Desktop"
